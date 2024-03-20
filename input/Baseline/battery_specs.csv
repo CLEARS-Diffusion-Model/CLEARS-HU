@@ -1,0 +1,17 @@
+﻿Battery specifications,
+Ft,
+KSH,
+battery_data,Value
+battery_cost,550
+battery_cost_std,0.2
+depth_of_discharge,0.9
+discount_rate,0.05
+efficiency,0.9
+elec_price_growth,0.02
+elec_price_high,0.184484211
+elec_price_limit,2523
+elec_price_low,0.095284211
+feed_in_tariff,0.013157895
+labour_cost,240
+lifetime,15
+self_consumption,0.8
